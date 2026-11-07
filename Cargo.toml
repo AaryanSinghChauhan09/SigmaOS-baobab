@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos_baobab"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_baobab"
+path = "src/lib.rs"
